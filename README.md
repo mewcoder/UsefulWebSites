@@ -11,6 +11,8 @@
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
 
 - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
+
+- [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
  	
 - [SmallPDF](https://smallpdf.com/cn) 在线PDF编辑
  		
