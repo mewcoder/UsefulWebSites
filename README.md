@@ -28,4 +28,4 @@
 
 - [疯狂影视搜索](http://ifkdy.com/)破解影视搜索引擎
 
-- [SCI-Hub](http://sci-hub.tw/)破解论文下载
+- [Sci-Hub](http://sci-hub.tw/)破解论文下载
