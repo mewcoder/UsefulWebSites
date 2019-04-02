@@ -1,6 +1,8 @@
 ## 实用网站整理 第0.1版
 ![](https://i.loli.net/2019/03/30/5c9edef438aad.png)
+
 ------
+
 ### 办公工具类
 
 - [UZER.ME](https://uzer.me/) 云端的办公软件库，Office、XMind、PPT、Excel、Word、AuthCAD、MATLAB、Photoshop等
@@ -16,7 +18,9 @@
 - [Firefox Send](https://send.firefox.com/) 临时文件分享
 
 - [SM.MS](https://sm.ms/) 免费图床
+
 ------
+
 ### 图片处理类
 
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
@@ -40,13 +44,17 @@
 - [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
 
 - [How2J](http://how2j.cn?p=68554) Java自学网站
+
 ------
+
 ### 资源分享类
 
 - [殆漂遥](https://www.laomoit.com/) 破解软件分享
 
 - [胖次网盘搜索](https://www.panc.cc/) 百度网盘搜索引擎
+
 ------
+
 ### 影音娱乐类
 
 - [表情锅](https://app.xuty.tk/static/app/index.html) 在线表情制作
@@ -56,7 +64,9 @@
 - [MP4BA](http://www.mp4ba.com/) 影视下载
 
 - [WallHaven](https://alpha.wallhaven.cc/) 壁纸
+
 ------
+
 ### 购物优惠类
 
 - [逛丢](https://guangdiu.com/) 实时同步全网折扣
