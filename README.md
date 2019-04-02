@@ -16,6 +16,7 @@
   		
 - [Firefox Send](https://send.firefox.com/)临时文件分享
 
+- [SM.MS](https://sm.ms/)免费图床
 
 ### 科研编程类
 
