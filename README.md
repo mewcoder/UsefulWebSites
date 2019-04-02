@@ -18,6 +18,8 @@
 
 - [SM.MS](https://sm.ms/)免费图床
 
+- [SS](https://a.aiguobit.com/users/register/f19a5876554b99d13550d1cb9549ede6)shadowsocks,5元一月
+
 ### 科研编程类
 
 - [Sci-Hub](http://sci-hub.tw/)破解论文下载
