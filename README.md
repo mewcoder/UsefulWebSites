@@ -67,6 +67,8 @@
 
 - [WallHaven](https://alpha.wallhaven.cc/) 壁纸
 
+- [Neets](https://neets.cc/) 垂直类视频搜索引擎
+
 ------
 
 ### 购物优惠类
