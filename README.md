@@ -1,4 +1,4 @@
-   ### 有用网站集合 第0.1版
+   ## 实用网站整理 第0.1版
 
 - [UZER.ME](https://uzer.me/) 云端的办公软件库，Office、XMind、PPT、Excel、Word、AuthCAD、MATLAB、Photoshop等
 		 
@@ -15,3 +15,11 @@
 - [表情锅](https://app.xuty.tk/static/app/index.html)在线表情制作
 	
 - [VisuAlgo](https://visualgo.net/zh)数据结构和算法动态可视化
+
+- [Firefox Send](https://send.firefox.com/)临时文件分享
+
+- [wallhaven](https://alpha.wallhaven.cc/)壁纸
+
+- [Pudn](http://www.pudn.com/)代码分享
+
+- [逛丢](https://guangdiu.com/)实时同步全网折扣
