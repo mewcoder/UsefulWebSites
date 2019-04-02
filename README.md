@@ -36,6 +36,7 @@
 
 - [殆漂遥](https://www.laomoit.com/)破解软件分享网站
 
+- [胖次网盘搜索](https://www.panc.cc/)百度网盘搜索引擎
 
 ### 影音娱乐类
 
