@@ -27,3 +27,5 @@
 - [Grammarly](https://www.grammarly.com/)基于AI的语法检查
 
 - [疯狂影视搜索](http://ifkdy.com/)破解影视搜索引擎
+
+- [SCI-HUB](http://sci-hub.tw/)破解论文下载
