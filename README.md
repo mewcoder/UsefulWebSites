@@ -43,6 +43,8 @@
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 
 - [LogoyPro](https://logoly.pro) 在线的 PornHub 风格 Logo 生成工具
+
+- [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 ------
 ### 科研学习类
 
@@ -77,6 +79,8 @@
 - [WallHaven](https://alpha.wallhaven.cc/) 壁纸
 
 - [Neets](https://neets.cc/) 垂直类视频搜索引擎
+
+- [Github Games](https://likexia.gitee.io/game/index.html) 在线有趣小游戏
 
 ------
 
