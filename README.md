@@ -7,12 +7,6 @@
 - [石墨文档](https://shimo.im) 在线文档
 		
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
-		 
-- [ClippingMagic](https://clippingmagic.com/) 在线抠图
-
-- [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
-
-- [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
  	
 - [SmallPDF](https://smallpdf.com/cn) 在线PDF编辑
  		
@@ -22,9 +16,20 @@
 
 - [SM.MS](https://sm.ms/) 免费图床
 
-- [SS](https://a.aiguobit.com/users/register/f19a5876554b99d13550d1cb9549ede6) “科研”必备，ShadowSocks 5元一月
+------
+### 图片处理类
 
-### 科研编程类
+- [ClippingMagic](https://clippingmagic.com/) 在线抠图
+
+- [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
+
+- [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
+
+- [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
+------
+### 科研学习类
+
+- [SS](https://a.aiguobit.com/users/register/f19a5876554b99d13550d1cb9549ede6) “科研”必备，ShadowSocks 5元一月
 
 - [Sci-Hub](http://sci-hub.tw/ )破解论文下载
 
@@ -35,16 +40,14 @@
 - [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
 
 - [How2J](http://how2j.cn?p=68554) Java自学网站
-
+------
 ### 资源分享类
 
 - [殆漂遥](https://www.laomoit.com/) 破解软件分享
 
 - [胖次网盘搜索](https://www.panc.cc/) 百度网盘搜索引擎
-
+------
 ### 影音娱乐类
-
-- [逛丢](https://guangdiu.com/) 实时同步全网折扣
 
 - [表情锅](https://app.xuty.tk/static/app/index.html) 在线表情制作
 
@@ -53,4 +56,7 @@
 - [MP4BA](http://www.mp4ba.com/) 影视下载
 
 - [WallHaven](https://alpha.wallhaven.cc/) 壁纸
+------
+### 购物优惠类
 
+- [逛丢](https://guangdiu.com/) 实时同步全网折扣
