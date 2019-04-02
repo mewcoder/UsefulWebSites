@@ -30,6 +30,7 @@
 
 - [Grammarly](https://www.grammarly.com/)基于AI的英文语法检查
 
+- [How2J](http://how2j.cn?p=68554)Java自学网站
 
 ### 资源分享类
 
