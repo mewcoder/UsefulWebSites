@@ -78,6 +78,8 @@
 
 - [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
 
+- [茶杯狐](https://www.cupfox.com/) 破解影视搜索引擎
+
 - [MP4BA](http://www.mp4ba.com/) 影视下载
 
 - [WallHaven](https://alpha.wallhaven.cc/) The best wallpapers on the Net!
