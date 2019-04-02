@@ -25,3 +25,5 @@
 - [逛丢](https://guangdiu.com/)实时同步全网折扣
 
 - [Grammarly](https://www.grammarly.com/)基于AI的语法检查
+
+- [疯狂影视搜索](http://ifkdy.com/)破解影视搜索引擎
