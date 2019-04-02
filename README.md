@@ -1,4 +1,5 @@
-## 实用网站整理 第0.1版
+## 实用网站整理 
+20190403更新
 ![UsefulWebSites](https://i.loli.net/2019/04/02/5ca3645b69391.png)
 
 ------
@@ -53,7 +54,7 @@
 
 - [SS](https://a.aiguobit.com/users/register/f19a5876554b99d13550d1cb9549ede6) “科研”必备，ShadowSocks 5元一月
 
-- [Sci-Hub](http://sci-hub.tw/ ) 破解论文下载
+- [Sci-Hub](http://sci-hub.tw/ ) 英文论文免费下载
 
 - [VisuAlgo](https://visualgo.net/zh) 数据结构和算法动态可视化
 
