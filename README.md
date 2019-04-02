@@ -16,8 +16,6 @@
 - [Firefox Send](https://send.firefox.com/)临时文件分享
 
 
-- [殆漂遥](https://www.laomoit.com/)破解软件分享网站
-
 ### 科研编程类
 
 - [Sci-Hub](http://sci-hub.tw/)破解论文下载
@@ -27,6 +25,12 @@
 - [Pudn](http://www.pudn.com/)代码分享
 
 - [Grammarly](https://www.grammarly.com/)基于AI的英文语法检查
+
+
+### 资源分享类
+
+- [殆漂遥](https://www.laomoit.com/)破解软件分享网站
+
 
 ### 影音娱乐类
 
