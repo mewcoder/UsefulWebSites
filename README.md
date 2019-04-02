@@ -9,6 +9,8 @@
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
 		 
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
+
+- [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
  	
 - [SmallPDF](https://smallpdf.com/cn) 在线PDF编辑
  		
