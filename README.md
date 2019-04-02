@@ -18,7 +18,7 @@
 
 - [Firefox Send](https://send.firefox.com/)临时文件分享
 
-- [wallhaven](https://alpha.wallhaven.cc/)壁纸
+- [WallHaven](https://alpha.wallhaven.cc/)壁纸
 
 - [Pudn](http://www.pudn.com/)代码分享
 
