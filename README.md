@@ -31,6 +31,8 @@
 
 - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
 
+- [表情锅](https://app.xuty.tk/static/app/index.html)  在线生成王境泽、为所欲为等表情包
+
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 
 - [LogoyPro](https://logoly.pro) 在线的 PornHub 风格 Logo 生成工具
@@ -60,8 +62,6 @@
 ------
 
 ### 影音娱乐类
-
-- [表情锅](https://app.xuty.tk/static/app/index.html)  在线生成王境泽、为所欲为等表情包
 
 - [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
 
