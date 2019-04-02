@@ -26,7 +26,7 @@
 
 - [VisuAlgo](https://visualgo.net/zh) 数据结构和算法动态可视化
 
-- [Pudn](http://www.pudn.com/) 代码分享
+- [Pudn](http://www.pudn.com/) 代码下载
 
 - [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
 
@@ -34,7 +34,7 @@
 
 ### 资源分享类
 
-- [殆漂遥](https://www.laomoit.com/) 破解软件分享网站
+- [殆漂遥](https://www.laomoit.com/) 破解软件分享
 
 - [胖次网盘搜索](https://www.panc.cc/) 百度网盘搜索引擎
 
