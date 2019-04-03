@@ -10,10 +10,7 @@
 - [石墨文档](https://shimo.im) 在线文档
 	
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
-	
-- [SmallPDF](https://smallpdf.com/cn) 在线PDF编辑
-	
-- [TinyPNG](https://tinypng.com/) 在线图片压缩
+		
   
 - [Firefox Send](https://send.firefox.com/) 临时文件分享
 
@@ -31,9 +28,17 @@
 
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
 
+#### PDF编辑类
+
+- [SmallPDF](https://smallpdf.com/cn) 
+
+- [LightPDF](https://lightpdf.com/zh/) 
+
 ------
 
 ### 图片制作类
+
+- [TinyPNG](https://tinypng.com/) 在线图片压缩
 
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
 
