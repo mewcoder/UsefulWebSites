@@ -18,7 +18,7 @@
 - [mp3cut](https://mp3cut.net/) 在线处理音频
 
 #### PPT模板类
-
+- [HiPPTER](http://www.hippter.com/)  PPT资源导航
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
 - [OfficePLUS](http://www.ypppt.com/) 微软官方，绝对良心，除了ppt模板外，还提供word模板、excel模板及图片素材
 - [51PPT](http://www.51pptmoban.com/ppt/) 专注于免费ppt模板下载
@@ -60,6 +60,7 @@
 - [VisuAlgo](https://visualgo.net/zh) 数据结构和算法动态可视化
 - [Pudn](http://www.pudn.com/) 代码下载
 - [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
+- [Hemingway Editor](http://www.hemingwayapp.com/) 在线英文写作校对网站
 - [How2J](http://how2j.cn?p=68554) Java自学网站
 
 ------
