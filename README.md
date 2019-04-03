@@ -26,6 +26,7 @@
 
 - [SmallPDF](https://smallpdf.com/cn) 
 - [LightPDF](https://lightpdf.com/zh/) 
+- [福昕云编辑](http://edit.foxitcloud.cn/) 
 
 #### 图片处理类
 
@@ -35,7 +36,7 @@
 - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
--
+- [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
 
 ------
 ## 科研学习类
@@ -50,22 +51,25 @@
 ------
 
 ## 资源分享类
-
+- [WallHaven](https://alpha.wallhaven.cc/) The best wallpapers on the Net!
 - [殆漂遥](https://www.laomoit.com/) 破解软件分享
 - [胖次网盘搜索](https://www.panc.cc/) 百度网盘搜索引擎
 - [鸠摩搜书](https://www.jiumodiary.com/) 电子书搜索引擎
 ------
 
-### 影音娱乐类
-- [LogoyPro](https://logoly.pro) 在线的 PornHub 风格 Logo 生成工具
-- [表情锅](https://app.xuty.tk/static/app/index.html)  在线生成王境泽、为所欲为等表情包
+## 影音视频类
 - [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
 - [茶杯狐](https://www.cupfox.com/) 破解影视搜索引擎
 - [MP4BA](http://www.mp4ba.com/) 影视下载
-- [WallHaven](https://alpha.wallhaven.cc/) The best wallpapers on the Net!
 - [Neets](https://neets.cc/) 垂直类视频搜索引擎
-- [Github Games](https://likexia.gitee.io/game/index.html) 在线有趣小游戏
+- [全国电视直播](http://bddn.cn/zb.htm) 支持几百个电视直播的网站，网站界面简洁无广告
 - [Youtube视频下载](http://www.ytb.io/) 免费下载youtube视频
+------
+## 有意思的类
+- [Github Games](https://likexia.gitee.io/game/index.html) 在线有趣小游戏
+- [表情锅](https://app.xuty.tk/static/app/index.html)  在线生成王境泽、为所欲为等表情包
+- [LogoyPro](https://logoly.pro) 在线的 PornHub 风格 Logo 生成工具
+
 ------
 
 ## 论坛社区类
