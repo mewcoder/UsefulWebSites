@@ -15,6 +15,7 @@
 - [Editor.md](https://pandao.github.io/editor.md/) 开源在线 Markdown 编辑器
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
+- [mp3cut](https://mp3cut.net/) 在线处理音频
 
 #### PPT模板类
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
@@ -36,6 +37,11 @@
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
+
+#### 词云类
+
+- [图悦](http://www.picdata.cn/index.php) 在线词频分析，词云图制作软件
+- [易词云](http://yciyun.com/) 
 
 ------
 ## 科研学习类
