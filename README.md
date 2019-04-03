@@ -45,7 +45,7 @@
 
 #### 图床类
 
-- [SM.MS](https://sm.ms/) 免费图床
+- [SM.MS](https://sm.ms/) Simple Free Image Hosting
 - [小贱贱图床](https://pic.xiaojianjian.net/) 全网CDN不限流量、无限外链、永久免费图床 
 
 #### 素材类
