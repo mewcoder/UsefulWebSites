@@ -9,8 +9,6 @@
 - [石墨文档](https://shimo.im) 在线文档
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
 - [Firefox Send](https://send.firefox.com/) 临时文件分享
-- [SM.MS](https://sm.ms/) 免费图床
-- [小贱贱图床](https://pic.xiaojianjian.net/) 全网CDN不限流量、无限外链、永久免费图床 
 - [MikuTools](https://miku.tools/) 一个轻量的工具合集
 - [Editor.md](https://pandao.github.io/editor.md/) 开源在线 Markdown 编辑器
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
@@ -44,6 +42,11 @@
 
 - [图悦](http://www.picdata.cn/index.php) 在线词频分析，词云图制作软件
 - [易词云](http://yciyun.com/) 
+
+#### 图床类
+
+- [SM.MS](https://sm.ms/) 免费图床
+- [小贱贱图床](https://pic.xiaojianjian.net/) 全网CDN不限流量、无限外链、永久免费图床 
 
 #### 素材类
 
