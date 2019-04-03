@@ -25,6 +25,7 @@
 #### PDF编辑类
 
 - [SmallPDF](https://smallpdf.com/cn) 
+- [iLovePDF](https://www.ilovepdf.com/zh-cn) 
 - [LightPDF](https://lightpdf.com/zh/) 
 - [福昕云编辑](http://edit.foxitcloud.cn/) 
 
@@ -43,6 +44,10 @@
 - [图悦](http://www.picdata.cn/index.php) 在线词频分析，词云图制作软件
 - [易词云](http://yciyun.com/) 
 
+#### 素材类
+
+- [Mixkit](https://mixkit.co/) 免费视频素材网站
+- [多搜搜](http://duososo.com/index.php) 图片搜索引擎
 ------
 ## 科研学习类
 
