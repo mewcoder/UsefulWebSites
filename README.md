@@ -18,6 +18,7 @@
 - [mp3cut](https://mp3cut.net/) 在线处理音频
 
 #### PPT模板类
+
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
 - [OfficePLUS](http://www.ypppt.com/) 微软官方，绝对良心，除了ppt模板外，还提供word模板、excel模板及图片素材
 - [51PPT](http://www.51pptmoban.com/ppt/) 专注于免费ppt模板下载
@@ -46,6 +47,7 @@
 
 #### 素材类
 
+- [Pixabay](https://pixabay.com/zh/) 免费图片和视频素材网站，数量多，质量较高
 - [Mixkit](https://mixkit.co/) 免费视频素材网站
 - [多搜搜](http://duososo.com/index.php) 图片搜索引擎
 ------
