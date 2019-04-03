@@ -32,9 +32,8 @@
 - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
 - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
-- [LogoyPro](https://logoly.pro) 在线的 PornHub 风格 Logo 生成工具
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
-------
+-
 
 ------
 ## 科研学习类
@@ -56,6 +55,7 @@
 ------
 
 ### 影音娱乐类
+- [LogoyPro](https://logoly.pro) 在线的 PornHub 风格 Logo 生成工具
 - [表情锅](https://app.xuty.tk/static/app/index.html)  在线生成王境泽、为所欲为等表情包
 - [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
 - [茶杯狐](https://www.cupfox.com/) 破解影视搜索引擎
