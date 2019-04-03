@@ -6,15 +6,15 @@
 ### 办公工具类
 
 - [UZER.ME](https://uzer.me/) 云端的办公软件库，Office、XMind、PPT、Excel、Word、AuthCAD、MATLAB、Photoshop等
-		 
+	
 - [石墨文档](https://shimo.im) 在线文档
-		
+	
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
- 	
+	
 - [SmallPDF](https://smallpdf.com/cn) 在线PDF编辑
- 		
+	
 - [TinyPNG](https://tinypng.com/) 在线图片压缩
-  		
+  
 - [Firefox Send](https://send.firefox.com/) 临时文件分享
 
 - [SM.MS](https://sm.ms/) 免费图床
@@ -77,17 +77,12 @@
 ### 影音娱乐类
 
 - [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
-
 - [茶杯狐](https://www.cupfox.com/) 破解影视搜索引擎
-
 - [MP4BA](http://www.mp4ba.com/) 影视下载
-
 - [WallHaven](https://alpha.wallhaven.cc/) The best wallpapers on the Net!
-
 - [Neets](https://neets.cc/) 垂直类视频搜索引擎
-
 - [Github Games](https://likexia.gitee.io/game/index.html) 在线有趣小游戏
-
+- [Youtube视频下载](http://www.ytb.io/) 免费下载youtube视频
 ------
 
 ### 论坛社区类
