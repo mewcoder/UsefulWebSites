@@ -17,9 +17,11 @@
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
 
-#### PPT模板
+#### PPT模板类
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
 - [OfficePLUS](http://www.ypppt.com/) 微软官方，绝对良心，除了ppt模板外，还提供word模板、excel模板及图片素材
+- [51PPT](http://www.51pptmoban.com/ppt/) 专注于免费ppt模板下载
+
 #### PDF编辑类
 
 - [SmallPDF](https://smallpdf.com/cn) 
@@ -76,7 +78,7 @@
 ## 购物优惠类
 
 - [逛丢](https://guangdiu.com/) 实时同步全网折扣
-
+- [买手党](https://www.maishoudang.com/) 买手聚集的地方
 ------
 
 ## 举报投诉类
