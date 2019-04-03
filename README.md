@@ -50,6 +50,8 @@
 - [Pixabay](https://pixabay.com/zh/) 免费图片和视频素材网站，数量多，质量较高
 - [Mixkit](https://mixkit.co/) 免费视频素材网站
 - [多搜搜](http://duososo.com/index.php) 图片搜索引擎
+- [Stickpng](http://www.stickpng.com/) Free Transparent PNG Images
+
 ------
 ## 科研学习类
 
