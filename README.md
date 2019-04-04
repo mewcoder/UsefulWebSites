@@ -25,10 +25,10 @@
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
 - [Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
 - [onlinedoctranslator](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
-   #### 传输
-- [Firefox Send](https://send.firefox.com/) 临时文件传输
-- [奶牛快传](https://cowtransfer.com/) 临时文件传输
-- [空投](https://airportal.cn/) 临时文件传输
+- 临时传输
+   - [Firefox Send](https://send.firefox.com/) 临时文件传输
+   - [奶牛快传](https://cowtransfer.com/) 临时文件传输
+   - [空投](https://airportal.cn/) 临时文件传输
 
 
    ### PDF类
@@ -49,15 +49,15 @@
 - PS
    - [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
    - [uupoop](https://www.uupoop.com/) ps在线精简版
-   #### 抠图
-- [ClippingMagic](https://clippingmagic.com/) 在线抠图
-- [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
-- [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
-   #### 压缩
-- [TinyPNG](https://tinypng.com/) 在线图片压缩
-- [Recompressor](https://zh.recompressor.com/) 最优图像优化
-- [img.top](https://img.top/) 智能在线图像压缩
-- [智图](https://zhitu.isux.us/) 智能在线图像压缩
+- 抠图
+   - [ClippingMagic](https://clippingmagic.com/) 在线抠图
+   - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
+   - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
+- 压缩
+   - [TinyPNG](https://tinypng.com/) 在线图片压缩
+   - [Recompressor](https://zh.recompressor.com/) 最优图像优化
+   - [img.top](https://img.top/) 智能在线图像压缩
+   - [智图](https://zhitu.isux.us/) 智能在线图像压缩
 
 
    ### PPT类
