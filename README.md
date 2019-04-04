@@ -25,9 +25,9 @@
 
 #### PDF类
 
-- [SmallPDF](https://smallpdf.com/cn) 
-- [iLovePDF](https://www.ilovepdf.com/zh-cn) 
-- [LightPDF](https://lightpdf.com/zh/) 
+- [SmallPDF](https://smallpdf.com/cn) 您所有PDF问题的免费解决方案
+- [iLovePDF](https://www.ilovepdf.com/zh-cn) 为PDF爱好者提供的PDF文件在线处理工具
+- [LightPDF](https://lightpdf.com/zh/) 免费在线编辑、转换PDF文件
 - [福昕云编辑](http://edit.foxitcloud.cn/) 
 - [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体。
 
