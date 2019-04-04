@@ -41,6 +41,7 @@
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
 - [uupoop](https://www.uupoop.com/) ps在线精简版
+- [Jinaconvert](https://jinaconvert.com/cn/) 在线转换图片格式-在线图片转换器-100% 免费
 
 #### PPT类
 
