@@ -49,6 +49,7 @@
 - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
 
 - [TinyPNG](https://tinypng.com/) 在线图片压缩
+- [Recompressor](https://zh.recompressor.com/) 最优图像优化
 
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
