@@ -5,7 +5,7 @@
 
 ## 办公工具类
 
-- [UZER.ME](https://uzer.me/) 云端的办公软件库，Office、XMind、PPT、Excel、Word、AuthCAD、MATLAB、Photoshop等
+- [UZER.ME](https://uzer.me/) 云端的办公软件库，随时使用各种应用
 - [MikuTools](https://miku.tools/) 一个轻量的工具合集
 - [Editor.md](https://pandao.github.io/editor.md/) 开源在线 Markdown 编辑器
 - [OCRMaker](http://www.ocrmaker.com/) 免费在线文字识别，文字提取，OCR服务
