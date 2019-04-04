@@ -13,17 +13,17 @@
 - [MikuTools](https://miku.tools/) 一个轻量的工具合集
 - [Editor.md](https://pandao.github.io/editor.md/) 开源在线 Markdown 编辑器
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
-- [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
-- Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
-- [mp3cut](https://mp3cut.net/) 在线处理音频
-- [Apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) 在线录屏，免费高清录屏工具，无水印，无需下载
-#### PPT模板类
-- [HiPPTER](http://www.hippter.com/)  PPT资源导航
-- [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
-- [OfficePLUS](http://www.ypppt.com/) 微软官方，绝对良心，除了ppt模板外，还提供word模板、excel模板及图片素材
-- [51ppt](http://www.51pptmoban.com/ppt/) 免费模板
 
-#### PDF编辑类
+#### 文件类
+
+- [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
+- [Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
+- [mp3cut](https://mp3cut.net/cn/) Online MP3 Cutter - 剪辑歌曲，制作铃声
+- [Apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) 在线录屏，免费高清录屏工具，无水印，无需下载
+
+
+
+#### PDF类
 
 - [SmallPDF](https://smallpdf.com/cn) 
 - [iLovePDF](https://www.ilovepdf.com/zh-cn) 
@@ -31,7 +31,7 @@
 - [福昕云编辑](http://edit.foxitcloud.cn/) 
 - [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体。
 
-#### 图片处理类
+#### 图片类
 
 - [TinyPNG](https://tinypng.com/) 在线图片压缩
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
@@ -41,6 +41,22 @@
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
 - [uupoop](https://www.uupoop.com/) ps在线精简版
+
+#### PPT类
+
+- [HiPPTER](http://www.hippter.com/)  PPT资源导航
+- [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
+- [OfficePLUS](http://www.ypppt.com/) 微软官方，绝对良心，除了ppt模板外，还提供word模板、excel模板及图片素材
+- [51ppt](http://www.51pptmoban.com/ppt/) 免费模板
+
+#### 素材类
+
+- [Pixabay](https://pixabay.com/zh/) 免费图片和视频素材网站，数量多，质量较高
+- [Mixkit](https://mixkit.co/) 免费视频素材网站
+- [多搜搜](http://duososo.com/index.php) 图片搜索引擎
+- [Stickpng](http://www.stickpng.com/) Free Transparent PNG Images
+- [沙沙野](https://www.ssyer.com/home) 无版权图片_图片免费商用
+- [colorhub](https://colorhub.me/) 高清无版权图片，个人和商业用途免费
 
 #### 词云类
 
@@ -52,14 +68,7 @@
 - [SM.MS](https://sm.ms/) Simple Free Image Hosting
 - [小贱贱图床](https://pic.xiaojianjian.net/) 全网CDN不限流量、无限外链、永久免费图床 
 
-#### 素材类
 
-- [Pixabay](https://pixabay.com/zh/) 免费图片和视频素材网站，数量多，质量较高
-- [Mixkit](https://mixkit.co/) 免费视频素材网站
-- [多搜搜](http://duososo.com/index.php) 图片搜索引擎
-- [Stickpng](http://www.stickpng.com/) Free Transparent PNG Images
-- [沙沙野](https://www.ssyer.com/home) 无版权图片_图片免费商用
-- [colorhub](https://colorhub.me/) 高清无版权图片，个人和商业用途免费
 ------
 ## 科研学习类
 
