@@ -27,6 +27,7 @@
 - [iLovePDF](https://www.ilovepdf.com/zh-cn) 
 - [LightPDF](https://lightpdf.com/zh/) 
 - [福昕云编辑](http://edit.foxitcloud.cn/) 
+- [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体。
 
 #### 图片处理类
 
