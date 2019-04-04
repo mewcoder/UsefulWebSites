@@ -7,14 +7,14 @@
 
 - [UZER.ME](https://uzer.me/) 云端的办公软件库，Office、XMind、PPT、Excel、Word、AuthCAD、MATLAB、Photoshop等
 - [MikuTools](https://miku.tools/) 一个轻量的工具合集
-- [Firefox Send](https://send.firefox.com/) 临时文件分享
+
 - [Editor.md](https://pandao.github.io/editor.md/) 开源在线 Markdown 编辑器
 - [OCRMaker](http://www.ocrmaker.com/) 免费在线文字识别，文字提取，OCR服务
 - [无错字](https://wucuozi.com/demo/) 错别字检测
 - [Apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) 在线录屏，免费高清录屏工具，无水印，无需下载
 
 
-#### 图文类
+#### 文档图表类
 
 - [石墨文档](https://shimo.im) 在线文档
 - [幕布](https://mubu.com/) 极简大纲笔记，一键生成思维导图
@@ -28,6 +28,8 @@
 - [mp3cut](https://mp3cut.net/cn/) Online MP3 Cutter - 剪辑歌曲，制作铃声
 - [onlinedoctranslator](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
 - [GIF之家](https://tool.gifhome.com/) GIF在线压缩 IF裁剪制作工具 视频转GIF软件
+- [Firefox Send](https://send.firefox.com/) 临时文件分享
+- [奶牛快传](https://cowtransfer.com/) 临时文件传输服务
 
 #### PDF类
 
@@ -39,6 +41,7 @@
 
 #### 图片类
 
+- [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
 - [TinyPNG](https://tinypng.com/) 在线图片压缩
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
 - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
