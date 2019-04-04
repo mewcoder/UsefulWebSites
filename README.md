@@ -7,6 +7,7 @@
 
 - [UZER.ME](https://uzer.me/) 云端的办公软件库，Office、XMind、PPT、Excel、Word、AuthCAD、MATLAB、Photoshop等
 - [石墨文档](https://shimo.im) 在线文档
+- [幕布](https://mubu.com/) 极简大纲笔记，一键生成思维导图
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
 - [Firefox Send](https://send.firefox.com/) 临时文件分享
 - [MikuTools](https://miku.tools/) 一个轻量的工具合集
@@ -14,12 +15,12 @@
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
 - [mp3cut](https://mp3cut.net/) 在线处理音频
-
+- [mp3cut](https://www.apowersoft.cn/free-online-screen-recorder) 在线处理音频
 #### PPT模板类
 - [HiPPTER](http://www.hippter.com/)  PPT资源导航
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
 - [OfficePLUS](http://www.ypppt.com/) 微软官方，绝对良心，除了ppt模板外，还提供word模板、excel模板及图片素材
-- [51PPT](http://www.51pptmoban.com/ppt/) 专注于免费ppt模板下载
+- [Apowersoft](http://www.51pptmoban.com/ppt/) 在线录屏，免费高清录屏工具，无水印，无需下载
 
 #### PDF编辑类
 
@@ -38,6 +39,7 @@
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
+- [uupoop](https://www.uupoop.com/) ps在线精简版
 
 #### 词云类
 
