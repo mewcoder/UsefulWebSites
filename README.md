@@ -15,10 +15,10 @@
 
    ### 文档图表类
 
-   - [石墨文档](https://shimo.im) 在线文档
-   - [幕布](https://mubu.com/) 极简大纲笔记，一键生成思维导图
-   - [百度脑图](http://naotu.baidu.com/) 在线思维导图
-   - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
+- [石墨文档](https://shimo.im) 在线文档
+- [幕布](https://mubu.com/) 极简大纲笔记，一键生成思维导图
+- [百度脑图](http://naotu.baidu.com/) 在线思维导图
+- [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 
    ### 文件类
 
