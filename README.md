@@ -41,15 +41,19 @@
 #### 图片类
 
 - [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
-- [TinyPNG](https://tinypng.com/) 在线图片压缩
+- [uupoop](https://www.uupoop.com/) ps在线精简版
+- [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
+
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
 - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
 - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
-- [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
+
+- [TinyPNG](https://tinypng.com/) 在线图片压缩
+
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
-- [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
-- [uupoop](https://www.uupoop.com/) ps在线精简版
-- [Jinaconvert](https://jinaconvert.com/cn/) 在线转换图片格式-在线图片转换器-100% 免费
+- [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
+
+- [Jinaconvert](https://jinaconvert.com/cn/) 免费在线转换图片格式
 
 #### PPT类
 
