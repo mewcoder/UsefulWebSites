@@ -13,24 +13,25 @@
 - [BccTo.ME](https://bccto.me/) 10分钟临时邮箱
 - [云短信](https://www.pdflibr.com/) 在线短信接收
 
-#### 文档图表类
+### 文档图表类
 
 - [石墨文档](https://shimo.im) 在线文档
 - [幕布](https://mubu.com/) 极简大纲笔记，一键生成思维导图
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 
-#### 文件类
+### 文件类
 
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
 - [Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
 - [onlinedoctranslator](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
+#### 传输
 - [Firefox Send](https://send.firefox.com/) 临时文件传输
 - [奶牛快传](https://cowtransfer.com/) 临时文件传输
 - [空投](https://airportal.cn/) 临时文件传输
 
 
-#### PDF类
+### PDF类
 
 - [SmallPDF](https://smallpdf.com/cn) 您所有PDF问题的免费解决方案
 - [iLovePDF](https://www.ilovepdf.com/zh-cn) 为PDF爱好者提供的PDF文件在线处理工具
@@ -38,29 +39,28 @@
 - [福昕云编辑](http://edit.foxitcloud.cn/) 
 - [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体。
 
-#### 图片类
-
-- [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
-- [uupoop](https://www.uupoop.com/) ps在线精简版
+### 图片类
 
 - [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) 图像文件在线编辑工具
-
+- [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
+- [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
+- [Jinaconvert](https://jinaconvert.com/cn/) 免费在线转换图片格式
+#### ps
+- [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
+- [uupoop](https://www.uupoop.com/) ps在线精简版
+#### 抠图
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
 - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
 - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
-
+#### 压缩
 - [TinyPNG](https://tinypng.com/) 在线图片压缩
 - [Recompressor](https://zh.recompressor.com/) 最优图像优化
 - [img.top](https://img.top/) 智能在线图像压缩
 - [智图](https://zhitu.isux.us/) 智能在线图像压缩
 
-- [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
-- [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 
-- [Jinaconvert](https://jinaconvert.com/cn/) 免费在线转换图片格式
-
-#### PPT类
+### PPT类
 
 - [HiPPTER](http://www.hippter.com/)  PPT资源导航
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
@@ -68,13 +68,13 @@
 - [51ppt](http://www.51pptmoban.com/ppt/) 免费模板
 - [学术资源大全](http://www.xszydq.com) 科研PPT模板
 
-#### 多媒体类
+### 多媒体类
 
 - [Apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) 在线录屏，免费高清录屏工具，无水印，无需下载
 - [mp3cut](https://mp3cut.net/cn/) Online MP3 Cutter - 剪辑歌曲，制作铃声
 - [GIF之家](https://tool.gifhome.com/) GIF在线压缩 IF裁剪制作工具 视频转GIF软件
 
-#### 素材类
+### 素材类
 
 - [Pixabay](https://pixabay.com/zh/) 免费图片和视频素材网站，数量多，质量较高
 - [Mixkit](https://mixkit.co/) 免费视频素材网站
@@ -83,12 +83,12 @@
 - [沙沙野](https://www.ssyer.com/home) 无版权图片_图片免费商用
 - [colorhub](https://colorhub.me/) 高清无版权图片，个人和商业用途免费
 
-#### 词云类
+### 词云类
 
 - [图悦](http://www.picdata.cn/index.php) 在线词频分析，词云图制作软件
 - [易词云](http://yciyun.com/) 
 
-#### 图床类
+### 图床类
 
 - [SM.MS](https://sm.ms/) Simple Free Image Hosting
 - [小贱贱图床](https://pic.xiaojianjian.net/) 全网CDN不限流量、无限外链、永久免费图床 
