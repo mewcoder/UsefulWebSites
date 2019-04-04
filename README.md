@@ -12,6 +12,7 @@
 - [OCRMaker](http://www.ocrmaker.com/) 免费在线文字识别，文字提取，OCR服务
 - [无错字](https://wucuozi.com/demo/) 错别字检测
 - [Apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) 在线录屏，免费高清录屏工具，无水印，无需下载
+- [onlinedoctranslator]https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
 
 #### 图文类
 
