@@ -52,7 +52,7 @@
 - 抠图
    - [ClippingMagic](https://clippingmagic.com/) 在线抠图
    - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
-   - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
+   - [BgRemover](http://www.aigei.com/bgremover/)  在线图片去底工具
 - 压缩
    - [TinyPNG](https://tinypng.com/) 在线图片压缩
    - [Recompressor](https://zh.recompressor.com/) 最优图像优化
