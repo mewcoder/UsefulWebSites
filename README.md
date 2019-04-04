@@ -46,9 +46,9 @@
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 - [Jinaconvert](https://jinaconvert.com/cn/) 免费在线转换图片格式
-   #### PS
-- [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
-- [uupoop](https://www.uupoop.com/) ps在线精简版
+- PS
+   - [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
+   - [uupoop](https://www.uupoop.com/) ps在线精简版
    #### 抠图
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
 - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
