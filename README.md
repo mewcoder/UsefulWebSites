@@ -51,6 +51,7 @@
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
 - [OfficePLUS](http://www.ypppt.com/) 微软官方，绝对良心，除了ppt模板外，还提供word模板、excel模板及图片素材
 - [51ppt](http://www.51pptmoban.com/ppt/) 免费模板
+- [学术资源大全](http://www.xszydq.com) 科研PPT模板
 
 #### 素材类
 
