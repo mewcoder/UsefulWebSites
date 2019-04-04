@@ -71,19 +71,23 @@
 
 
 ------
-## 科研学习类
+## 科研类
 
 - [SS](https://a.aiguobit.com/users/register/f19a5876554b99d13550d1cb9549ede6) “科研”必备，ShadowSocks 5元一月
 - [Sci-Hub](http://sci-hub.tw/ ) 英文论文免费下载
-- [VisuAlgo](https://visualgo.net/zh) 数据结构和算法动态可视化
-- [Pudn](http://www.pudn.com/) 代码下载
+- [Demo MathType](http://www.wiris.com/editor/demo/zh/developers ) 在线编辑公式
+- [Linggle](https://linggle.com/ ) 可用于英语写作的语法、句子工具
 - [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
 - [Hemingway Editor](http://www.hemingwayapp.com/) 在线英文写作校对网站
-- [How2J](http://how2j.cn?p=68554) Java自学网站
+------
+## 编程类
 
+- [Pudn](http://www.pudn.com/) 代码下载
+- [How2J](http://how2j.cn?p=68554) Java自学网站
+- [VisuAlgo](https://visualgo.net/zh) 数据结构和算法动态可视化
 ------
 
-## 资源分享类
+## 资源类
 
 - [WallHaven](https://alpha.wallhaven.cc/) The best wallpapers on the Net!
 - [殆漂遥](https://www.laomoit.com/) 破解软件分享
@@ -92,7 +96,7 @@
 - [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航站
 ------
 
-## 影音视频类
+## 影视类
 - [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
 - [茶杯狐](https://www.cupfox.com/) 破解影视搜索引擎
 - [MP4BA](http://www.mp4ba.com/) 影视下载
@@ -100,7 +104,7 @@
 - [全国电视直播](http://bddn.cn/zb.htm) 支持几百个电视直播的网站，网站界面简洁无广告
 - [ FindYoutube](http://www.ytb.io/) download youtube & vimeo video without client
 ------
-## 有意思的类
+## 有意思类
 - [Github Games](https://likexia.gitee.io/game/index.html) 在线有趣小游戏
 - [表情锅](https://app.xuty.tk/static/app/index.html)  在线生成王境泽、为所欲为等表情包
 - [LogoyPro](https://logoly.pro) 在线的 PornHub 风格 Logo 生成工具
