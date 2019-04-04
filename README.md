@@ -46,14 +46,14 @@
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 - [Jinaconvert](https://jinaconvert.com/cn/) 免费在线转换图片格式
-      #### PS
+   #### PS
 - [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
 - [uupoop](https://www.uupoop.com/) ps在线精简版
-      #### 抠图
+   #### 抠图
 - [ClippingMagic](https://clippingmagic.com/) 在线抠图
 - [搞定抠图](https://www.gaoding.com/koutu) 在线抠图
 - [BgRemover](http://www.aigei.com/bgremover/) 将纯色背景的图片转换为背景透明的图片
-      #### 压缩
+   #### 压缩
 - [TinyPNG](https://tinypng.com/) 在线图片压缩
 - [Recompressor](https://zh.recompressor.com/) 最优图像优化
 - [img.top](https://img.top/) 智能在线图像压缩
