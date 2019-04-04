@@ -89,6 +89,7 @@
 - [殆漂遥](https://www.laomoit.com/) 破解软件分享
 - [胖次网盘搜索](https://www.panc.cc/) 百度网盘搜索引擎
 - [鸠摩搜书](https://www.jiumodiary.com/) 电子书搜索引擎
+- [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航站
 ------
 
 ## 影音视频类
