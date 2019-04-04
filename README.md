@@ -14,13 +14,14 @@
 - [Editor.md](https://pandao.github.io/editor.md/) 开源在线 Markdown 编辑器
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
+- Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
 - [mp3cut](https://mp3cut.net/) 在线处理音频
-- [mp3cut](https://www.apowersoft.cn/free-online-screen-recorder) 在线处理音频
+- [Apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) 在线录屏，免费高清录屏工具，无水印，无需下载
 #### PPT模板类
 - [HiPPTER](http://www.hippter.com/)  PPT资源导航
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
 - [OfficePLUS](http://www.ypppt.com/) 微软官方，绝对良心，除了ppt模板外，还提供word模板、excel模板及图片素材
-- [Apowersoft](http://www.51pptmoban.com/ppt/) 在线录屏，免费高清录屏工具，无水印，无需下载
+- [51ppt](http://www.51pptmoban.com/ppt/) 免费模板
 
 #### PDF编辑类
 
