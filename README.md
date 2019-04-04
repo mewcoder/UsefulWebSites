@@ -13,6 +13,8 @@
 - [MikuTools](https://miku.tools/) 一个轻量的工具合集
 - [Editor.md](https://pandao.github.io/editor.md/) 开源在线 Markdown 编辑器
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
+- [OCRMaker](http://www.ocrmaker.com/) 免费在线文字识别，文字提取，OCR服务
+- [无错字](https://wucuozi.com/demo/) 错别字检测
 
 #### 文件类
 
@@ -76,6 +78,7 @@
 - [SS](https://a.aiguobit.com/users/register/f19a5876554b99d13550d1cb9549ede6) “科研”必备，ShadowSocks 5元一月
 - [Sci-Hub](http://sci-hub.tw/ ) 英文论文免费下载
 - [Demo MathType](http://www.wiris.com/editor/demo/zh/developers ) 在线编辑公式
+- [codecogs.com/latex](https://www.codecogs.com/latex/eqneditor.php) 在线 LaTeX 公式编辑器
 - [Linggle](https://linggle.com/ ) 可用于英语写作的语法、句子工具
 - [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
 - [Hemingway Editor](http://www.hemingwayapp.com/) 在线英文写作校对网站
