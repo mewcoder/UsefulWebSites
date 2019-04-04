@@ -28,8 +28,9 @@
 - [mp3cut](https://mp3cut.net/cn/) Online MP3 Cutter - 剪辑歌曲，制作铃声
 - [onlinedoctranslator](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
 - [GIF之家](https://tool.gifhome.com/) GIF在线压缩 IF裁剪制作工具 视频转GIF软件
-- [Firefox Send](https://send.firefox.com/) 临时文件分享
-- [奶牛快传](https://cowtransfer.com/) 临时文件传输服务
+- [Firefox Send](https://send.firefox.com/) 临时文件传输
+- [奶牛快传](https://cowtransfer.com/) 临时文件传输
+- [空投](https://airportal.cn/) 临时文件传输
 
 #### PDF类
 
