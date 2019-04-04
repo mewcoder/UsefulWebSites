@@ -52,7 +52,8 @@
 
 - [TinyPNG](https://tinypng.com/) 在线图片压缩
 - [Recompressor](https://zh.recompressor.com/) 最优图像优化
-- [img.top ](https://zh.recompressor.com/) 智能在线图像压缩
+- [img.top](https://img.top/) 智能在线图像压缩
+- [智图](https://zhitu.isux.us/) 智能在线图像压缩
 
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
