@@ -12,7 +12,7 @@
 - [OCRMaker](http://www.ocrmaker.com/) 免费在线文字识别，文字提取，OCR服务
 - [无错字](https://wucuozi.com/demo/) 错别字检测
 - [Apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) 在线录屏，免费高清录屏工具，无水印，无需下载
-- [onlinedoctranslator]https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
+
 
 #### 图文类
 
@@ -21,12 +21,13 @@
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 
-#### 文件类
+#### 文件多媒体类
 
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
 - [Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
 - [mp3cut](https://mp3cut.net/cn/) Online MP3 Cutter - 剪辑歌曲，制作铃声
-
+- [onlinedoctranslator](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
+- [GIF之家](https://tool.gifhome.com/) GIF在线压缩 IF裁剪制作工具 视频转GIF软件
 
 #### PDF类
 
