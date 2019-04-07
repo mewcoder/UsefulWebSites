@@ -70,11 +70,15 @@
 - [学术资源大全](http://www.xszydq.com) 科研PPT模板
 
   ### 多媒体类
-
-- [Apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) 在线录屏，免费高清录屏工具，无水印，无需下载
+- [ShowMore](https://showmore.com/zh/) 轻松录制，上传，存储和分享视频
 - [mp3cut](https://mp3cut.net/cn/) Online MP3 Cutter - 剪辑歌曲，制作铃声
 - [GIF之家](https://tool.gifhome.com/) GIF在线压缩 IF裁剪制作工具 视频转GIF软件
 
+  #### Apowersoft
+- [在线音视频转换](https://www.apowersoft.cn/free-online-video-converter) 
+- [在线录屏](https://www.apowersoft.cn/free-online-screen-recorder) 
+- [在线录音](https://www.apowersoft.cn/free-audio-recorder-online) 
+ 
    ### 素材类
 
 - [Pixabay](https://pixabay.com/zh/) 免费图片和视频素材网站，数量多，质量较高
@@ -122,16 +126,20 @@
 - [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航站
 ------
 
-## 视频类
+## 影音类
 - [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
 - [茶杯狐](https://www.cupfox.com/) 破解影视搜索引擎
 - [MP4BA](http://www.mp4ba.com/) 影视下载
 - [Neets](https://neets.cc/) 垂直类视频搜索引擎
 - [全国电视直播](http://bddn.cn/zb.htm) 支持几百个电视直播的网站，网站界面简洁无广告
+- [SQ688](https://www.sq688.com/) 无损音乐下载
+
+
+### 下载
 - [FindYoutube](http://www.ytb.io/) download youtube & vimeo video without client
 - [parsevideo](https://www.parsevideo.com/) 视频解析网，微博、秒拍、汤不热视频解析下载网站
 - [VideoGrabber](https://www.videograbber.net/zh/) 海量视频资源，一键免费下载
-
+- [微博党](http://weibodang.cn/) 视频下载
 ------
 ## 有意思类
 - [Github Games](https://likexia.gitee.io/game/index.html) 在线有趣小游戏
