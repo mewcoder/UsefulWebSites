@@ -26,6 +26,7 @@
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
 - [Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
 - [onlinedoctranslator](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
+- [toePuB](https://toepub.com/zh/) 电子书格式转换
 - 临时传输
    - [Firefox Send](https://send.firefox.com/) 临时文件传输
    - [奶牛快传](https://cowtransfer.com/) 临时文件传输
@@ -38,7 +39,9 @@
 - [iLovePDF](https://www.ilovepdf.com/zh-cn) 为PDF爱好者提供的PDF文件在线处理工具
 - [LightPDF](https://lightpdf.com/zh/) 免费在线编辑、转换PDF文件
 - [福昕云编辑](http://edit.foxitcloud.cn/) 
-- [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体。
+- [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体
+- [PDF Joiner](https://pdfjoiner.com/zh/) 在线合并PDF文档
+- [To PDF](https://topdf.com/zh/) 在线PDF转换
 
    ### 图片类
 
@@ -47,6 +50,7 @@
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 - [Jinaconvert](https://jinaconvert.com/cn/) 免费在线转换图片格式
+- [Optimizilla](https://imagecompressor.com/zh/) 在线图片优化器
 - PS
    - [迅捷在线ps](http://ps.xunjiepdf.com/) 在线PS图片编辑器
    - [uupoop](https://www.uupoop.com/) ps在线精简版
@@ -73,6 +77,7 @@
 - [ShowMore](https://showmore.com/zh/) 轻松录制，上传，存储和分享视频
 - [mp3cut](https://mp3cut.net/cn/) Online MP3 Cutter - 剪辑歌曲，制作铃声
 - [GIF之家](https://tool.gifhome.com/) GIF在线压缩 IF裁剪制作工具 视频转GIF软件
+- [Ringtone Cutter](https://ringtonecutter.com/) GMake Ringtones, Alarms and Notification Tones
 
 - Apowersoft
    - [在线音视频转换](https://www.apowersoft.cn/free-online-video-converter) 
