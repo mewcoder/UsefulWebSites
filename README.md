@@ -7,6 +7,7 @@
 
 - [UZER.ME](https://uzer.me/) 云端的办公软件库，随时使用各种应用
 - [MikuTools](https://miku.tools/) 一个轻量的工具合集
+- [好工具网](http://www.nicetool.net/) 致力于收集打造各种简单易用在线工具，网友无需注册和下载安装即可使用
 - [Editor.md](https://pandao.github.io/editor.md/) 开源在线 Markdown 编辑器
 - [OCRMaker](http://www.ocrmaker.com/) 免费在线文字识别，文字提取，OCR服务
 - [无错字](https://wucuozi.com/demo/) 错别字检测
