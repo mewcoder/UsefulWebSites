@@ -48,7 +48,8 @@
 - [To PDF](https://topdf.com/zh/) 在线PDF转换
 
    ### 图片类
-
+   
+- [Camera360](http://web.camera360.com/) Camera360网页版在线制作图片及图片处理工具
 - [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) 图像文件在线编辑工具
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
