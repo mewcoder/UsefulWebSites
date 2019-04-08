@@ -27,14 +27,18 @@
 - [Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
 - [onlinedoctranslator](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器
 - [toePuB](https://toepub.com/zh/) 电子书格式转换
-- 临时传输
-   - [Firefox Send](https://send.firefox.com/) 临时文件传输
-   - [奶牛快传](https://cowtransfer.com/) 临时文件传输
-   - [空投](https://airportal.cn/) 临时文件传输
+
+
+   ### 传输类
+- [Firefox Send](https://send.firefox.com/) 临时文件传输
+- [奶牛快传](https://cowtransfer.com/) 临时文件传输
+- [空投](https://airportal.cn/) 临时文件传输
+- [拷贝兔](https://cp.anyknew.com/) 一款轻量级的Web跨平台文件、文字分享工具
 
 
    ### PDF类
 
+- [PDF派](https://www.pdfpai.com/) 20个好用的PDF在线工具，完全免费
 - [SmallPDF](https://smallpdf.com/cn) 您所有PDF问题的免费解决方案
 - [iLovePDF](https://www.ilovepdf.com/zh-cn) 为PDF爱好者提供的PDF文件在线处理工具
 - [LightPDF](https://lightpdf.com/zh/) 免费在线编辑、转换PDF文件
@@ -120,6 +124,7 @@
 - [Pudn](http://www.pudn.com/) 代码下载
 - [How2J](http://how2j.cn?p=68554) Java自学网站
 - [VisuAlgo](https://visualgo.net/zh) 数据结构和算法动态可视化
+- [ToolFK](https://www.toolfk.com/) 一个专注于程序员在线工具箱开发的网站
 ------
 
 ## 资源类
