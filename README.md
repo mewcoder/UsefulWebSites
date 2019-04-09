@@ -131,18 +131,24 @@
 ## 资源类
 
 - [WallHaven](https://alpha.wallhaven.cc/) The best wallpapers on the Net!
-- [殆漂遥](https://www.laomoit.com/) 破解软件分享
 - [胖次网盘搜索](https://www.panc.cc/) 百度网盘搜索引擎
 - [鸠摩搜书](https://www.jiumodiary.com/) 电子书搜索引擎
 - [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航站
 ------
+## 软件类
 
+- [Windows绝赞应用](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn) 
+- [殆漂遥](https://www.laomoit.com/) 破解软件分享
+- [胡萝卜周](http://www.carrotchou.blog/) 软件分享真正领跑者
+
+------
 ## 影视类
 - [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
 - [茶杯狐](https://www.cupfox.com/) 破解影视搜索引擎
 - [MP4BA](http://www.mp4ba.com/) 影视下载
 - [Neets](https://neets.cc/) 垂直类视频搜索引擎
 - [全国电视直播](http://bddn.cn/zb.htm) 支持几百个电视直播的网站，网站界面简洁无广告
+
 ### 下载
 - [FindYoutube](http://www.ytb.io/) download youtube & vimeo video without client
 - [parsevideo](https://www.parsevideo.com/) 视频解析网，微博、秒拍、汤不热视频解析下载网站
