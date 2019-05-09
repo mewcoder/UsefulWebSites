@@ -13,6 +13,7 @@
 - [无错字](https://wucuozi.com/demo/) 错别字检测
 - [BccTo.ME](https://bccto.me/) 10分钟临时邮箱
 - [云短信](https://www.pdflibr.com/) 在线短信接收
+- [logomakr](https://logomakr.com/) Create your own logo in minutes
 
    ### 文档图表类
 
