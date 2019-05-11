@@ -38,7 +38,7 @@
 
 ### PDF类
 
-- [PDF派](https://www.pdfpai.com/) | [SmallPDF](https://smallpdf.com/cn) | [iLovePDF](https://www.ilovepdf.com/zh-cn) | [LightPDF](https://lightpdf.com/zh/) | [福昕云编辑](http://edit.foxitcloud.cn/) 
+[PDF派](https://www.pdfpai.com/) | [SmallPDF](https://smallpdf.com/cn) | [iLovePDF](https://www.ilovepdf.com/zh-cn) | [LightPDF](https://lightpdf.com/zh/) | [福昕云编辑](http://edit.foxitcloud.cn/) 
 - [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体
 - [PDF Joiner](https://pdfjoiner.com/zh/) 在线合并PDF文档
 - [To PDF](https://topdf.com/zh/) 在线PDF转换
