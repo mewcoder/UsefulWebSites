@@ -15,14 +15,14 @@
 - [云短信](https://www.pdflibr.com/) 在线短信接收
 - [logomakr](https://logomakr.com/) Create your own logo in minutes
 
-   ### 文档图表类
+### 文档图表类
 
 - [石墨文档](https://shimo.im) 在线文档
 - [幕布](https://mubu.com/) 极简大纲笔记，一键生成思维导图
 - [百度脑图](http://naotu.baidu.com/) 在线思维导图
 - [ProcessOn](https://www.processon.com/) 免费在线作图, 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
 
-   ### 文件类
+### 文件类
 
 - [AlltoAll](http://www.alltoall.net/) 国内最全类型的在线文件转换平台
 - [Office-Converter](https://cn.office-converter.com/) 免费在线文件转换器 
@@ -30,14 +30,14 @@
 - [toePuB](https://toepub.com/zh/) 电子书格式转换
 
 
-   ### 传输类
+### 传输类
 - [Firefox Send](https://send.firefox.com/) 临时文件传输
 - [奶牛快传](https://cowtransfer.com/) 临时文件传输
 - [空投](https://airportal.cn/) 临时文件传输
 - [拷贝兔](https://cp.anyknew.com/) 一款轻量级的Web跨平台文件、文字分享工具
 
 
-   ### PDF类
+### PDF类
 
 - [PDF派](https://www.pdfpai.com/) 20个好用的PDF在线工具，完全免费
 - [SmallPDF](https://smallpdf.com/cn) 您所有PDF问题的免费解决方案
@@ -48,7 +48,7 @@
 - [PDF Joiner](https://pdfjoiner.com/zh/) 在线合并PDF文档
 - [To PDF](https://topdf.com/zh/) 在线PDF转换
 
-   ### 图片类
+ ### 图片类
    
 - [Camera360](http://web.camera360.com/) Camera360网页版在线制作图片及图片处理工具
 - [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
@@ -71,7 +71,7 @@
    - [智图](https://zhitu.isux.us/) 智能在线图像压缩
 
 
-   ### PPT类
+### PPT类
 
 - [HiPPTER](http://www.hippter.com/)  PPT资源导航
 - [优品PPT](http://www.ypppt.com/) 一个有情怀的免费PPT模板下载网站
@@ -79,7 +79,7 @@
 - [51ppt](http://www.51pptmoban.com/ppt/) 免费模板
 - [学术资源大全](http://www.xszydq.com) 科研PPT模板
 
-  ### 多媒体类
+### 多媒体类
 - [ShowMore](https://showmore.com/zh/) 轻松录制，上传，存储和分享视频
 - [mp3cut](https://mp3cut.net/cn/) Online MP3 Cutter - 剪辑歌曲，制作铃声
 - [GIF之家](https://tool.gifhome.com/) GIF在线压缩 IF裁剪制作工具 视频转GIF软件
@@ -90,7 +90,7 @@
    - [在线录屏](https://www.apowersoft.cn/free-online-screen-recorder) 
    - [在线录音](https://www.apowersoft.cn/free-audio-recorder-online) 
  
-   ### 素材类
+### 素材类
 
 - [Pixabay](https://pixabay.com/zh/) 免费图片和视频素材网站，数量多，质量较高
 - [Mixkit](https://mixkit.co/) 免费视频素材网站
@@ -99,12 +99,12 @@
 - [沙沙野](https://www.ssyer.com/home) 无版权图片_图片免费商用
 - [colorhub](https://colorhub.me/) 高清无版权图片，个人和商业用途免费
 
-   ### 词云类
+### 词云类
 
 - [图悦](http://www.picdata.cn/index.php) 在线词频分析，词云图制作软件
 - [易词云](http://yciyun.com/) 
 
-   ### 图床类
+### 图床类
 
 - [SM.MS](https://sm.ms/) Simple Free Image Hosting
 - [小贱贱图床](https://pic.xiaojianjian.net/) 全网CDN不限流量、无限外链、永久免费图床 
@@ -121,7 +121,8 @@
 - [Linggle](https://linggle.com/ ) 可用于英语写作的语法、句子工具
 - [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
 - [Hemingway Editor](http://www.hemingwayapp.com/) 在线英文写作校对网站
-- [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航站
+- [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航
+
 ------
 
 ## 编程类
@@ -147,6 +148,7 @@
 - [殆漂遥](https://www.laomoit.com/) 破解软件分享
 - [胡萝卜周](http://www.carrotchou.blog/) 软件分享真正领跑者
 - [极简插件](https://chrome.zzzmh.cn/) 优质chrome浏览器crx扩展插件分享
+
 ------
 
 ## 影视类
@@ -188,6 +190,7 @@
 
 - [逛丢](https://guangdiu.com/) 实时同步全网折扣
 - [买手党](https://www.maishoudang.com/) 买手聚集的地方
+
 ------
 
 ## 举报投诉类
