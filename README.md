@@ -39,11 +39,7 @@
 
 ### PDF类
 
-- [PDF派](https://www.pdfpai.com/) 20个好用的PDF在线工具，完全免费
-- [SmallPDF](https://smallpdf.com/cn) 您所有PDF问题的免费解决方案
-- [iLovePDF](https://www.ilovepdf.com/zh-cn) 为PDF爱好者提供的PDF文件在线处理工具
-- [LightPDF](https://lightpdf.com/zh/) 免费在线编辑、转换PDF文件
-- [福昕云编辑](http://edit.foxitcloud.cn/) 
+- [PDF派](https://www.pdfpai.com/) [SmallPDF](https://smallpdf.com/cn) [iLovePDF](https://www.ilovepdf.com/zh-cn) [LightPDF](https://lightpdf.com/zh/) [福昕云编辑](http://edit.foxitcloud.cn/) 
 - [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体
 - [PDF Joiner](https://pdfjoiner.com/zh/) 在线合并PDF文档
 - [To PDF](https://topdf.com/zh/) 在线PDF转换
