@@ -121,7 +121,7 @@
 - [Linggle](https://linggle.com/ ) 可用于英语写作的语法、句子工具
 - [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
 - [Hemingway Editor](http://www.hemingwayapp.com/) 在线英文写作校对网站
-
+- [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航站
 ------
 
 ## 编程类
@@ -138,7 +138,7 @@
 - [WallHaven](https://alpha.wallhaven.cc/) The best wallpapers on the Net!
 - [胖次网盘搜索](https://www.panc.cc/) 百度网盘搜索引擎
 - [鸠摩搜书](https://www.jiumodiary.com/) 电子书搜索引擎
-- [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航站
+
 ------
 
 ## 软件类
