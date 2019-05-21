@@ -113,83 +113,85 @@
 
 ## 科研类
 
-- [SS](https://a.aiguobit.com/users/register/f19a5876554b99d13550d1cb9549ede6) “科研”必备，ShadowSocks 5元一月
-- [Sci-Hub](http://sci-hub.tw/ ) 英文论文免费下载
-- [Demo MathType](http://www.wiris.com/editor/demo/zh/developers ) 在线编辑公式
-- [codecogs.com/latex](https://www.codecogs.com/latex/eqneditor.php) 在线 LaTeX 公式编辑器
-- [Linggle](https://linggle.com/ ) 可用于英语写作的语法、句子工具
-- [Grammarly](https://www.grammarly.com/) 基于AI的英文语法检查
-- [Hemingway Editor](http://www.hemingwayapp.com/) 在线英文写作校对网站
-- [万千合集站](http://www.hejizhan.com/html/search) 最专业的学术类资源聚合导航
+[SS](https://a.aiguobit.com/users/register/f19a5876554b99d13550d1cb9549ede6) | “科研”必备，ShadowSocks 5元一月
+[Sci-Hub](http://sci-hub.tw/ ) | 英文论文免费下载
+[Demo MathType](http://www.wiris.com/editor/demo/zh/developers ) | 在线编辑公式
+[codecogs.com/latex](https://www.codecogs.com/latex/eqneditor.php) | 在线 LaTeX 公式编辑器
+[Linggle](https://linggle.com/) | 可用于英语写作的语法、句子工具
+[Grammarly](https://www.grammarly.com/) | 基于AI的英文语法检查
+[Hemingway Editor](http://www.hemingwayapp.com/) | 在线英文写作校对网站
+[万千合集站](http://www.hejizhan.com/html/search) | 最专业的学术类资源聚合导航
 
 ------
 
 ## 编程类
 
-- [Pudn](http://www.pudn.com/) 代码下载
-- [How2J](http://how2j.cn?p=68554) Java自学网站
-- [VisuAlgo](https://visualgo.net/zh) 数据结构和算法动态可视化
-- [ToolFK](https://www.toolfk.com/) 一个专注于程序员在线工具箱开发的网站
+[Pudn](http://www.pudn.com/) | 代码下载
+[VisuAlgo](https://visualgo.net/zh) | 数据结构和算法动态可视化
+[ToolFK](https://www.toolfk.com/) | 一个专注于程序员在线工具箱开发的网站
 
 ------
 
 ## 资源类
 
-- [WallHaven](https://alpha.wallhaven.cc/) The best wallpapers on the Net!
-- [胖次网盘搜索](https://www.panc.cc/) 百度网盘搜索引擎
-- [鸠摩搜书](https://www.jiumodiary.com/) 电子书搜索引擎
+[WallHaven](https://alpha.wallhaven.cc/) | The best wallpapers on the Net!
+[胖次网盘搜索](https://www.panc.cc/) | 百度网盘搜索引擎
+[鸠摩搜书](https://www.jiumodiary.com/) | 电子书搜索引擎
 
 ------
 
 ## 软件类
 
-- [Windows绝赞应用](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn) 
-- [殆漂遥](https://www.laomoit.com/) 破解软件分享
-- [胡萝卜周](http://www.carrotchou.blog/) 软件分享真正领跑者
-- [极简插件](https://chrome.zzzmh.cn/) 优质chrome浏览器crx扩展插件分享
+[amazing-apps](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn) | Windows绝赞应用 
+[殆漂遥](https://www.laomoit.com/) | 破解软件分享
+[胡萝卜周](http://www.carrotchou.blog/) | 软件分享真正领跑者
 
 ------
 
 ## 影视类
-- [疯狂影视搜索](http://ifkdy.com/) 破解影视搜索引擎
-- [茶杯狐](https://www.cupfox.com/) 破解影视搜索引擎
-- [MP4BA](http://www.mp4ba.com/) 影视下载
-- [Neets](https://neets.cc/) 垂直类视频搜索引擎
-- [全国电视直播](http://bddn.cn/zb.htm) 支持几百个电视直播的网站，网站界面简洁无广告
+
+[疯狂影视搜索](http://ifkdy.com/) | 破解影视搜索引擎
+[茶杯狐](https://www.cupfox.com/) | 破解影视搜索引擎
+[MP4BA](http://www.mp4ba.com/) | 影视下载
+[Neets](https://neets.cc/) | 垂直类视频搜索引擎
+[全国电视直播](http://bddn.cn/zb.htm) | 支持几百个电视直播的网站，网站界面简洁无广告
 
 ### 下载
-- [FindYoutube](http://www.ytb.io/) download youtube & vimeo video without client
-- [parsevideo](https://www.parsevideo.com/) 视频解析网，微博、秒拍、汤不热视频解析下载网站
-- [VideoGrabber](https://www.videograbber.net/zh/) 海量视频资源，一键免费下载
-- [微博党](http://weibodang.cn/) 视频下载
-- [urlgot](https://www.urlgot.com/zh_CN/)Youtube bilibili 腾讯视频 爱奇艺视频解析下载器
+
+[FindYoutube](http://www.ytb.io/) | download youtube & vimeo video without client
+[parsevideo](https://www.parsevideo.com/) | 视频解析网，微博、秒拍、汤不热视频解析下载网站
+[VideoGrabber](https://www.videograbber.net/zh/) | 海量视频资源，一键免费下载
+[微博党](http://weibodang.cn/) | 视频下载
+[urlgot](https://www.urlgot.com/zh_CN/) | Youtube bilibili 腾讯视频 爱奇艺视频解析下载器
 
 ------
 
 ## 音乐类
-- [SQ688](https://www.sq688.com/) 无损音乐下载
-- [摆渡](http://www.baiduonce.com/index.html) 无损音乐下载
-- [艾木微](https://www.hd-mv.com/) 高清无水印车载MV分享下载站
+
+[SQ688](https://www.sq688.com/) | 无损音乐下载
+[摆渡](http://www.baiduonce.com/index.html) | 无损音乐下载
+[艾木微](https://www.hd-mv.com/) | 高清无水印车载MV分享下载站
 
 ------
 ## 有意思类
-- [Github Games](https://likexia.gitee.io/game/index.html) 在线有趣小游戏
-- [表情锅](https://app.xuty.tk/static/app/index.html)  在线生成王境泽、为所欲为等表情包
-- [LogoyPro](https://logoly.pro) 在线的 PornHub 风格 Logo 生成工具
+
+[Github Games](https://likexia.gitee.io/game/index.html) | 在线有趣小游戏
+[表情锅](https://app.xuty.tk/static/app/index.html) | 在线生成王境泽、为所欲为等表情包
+[LogoyPro](https://logoly.pro) | 在线的PornHub风格Logo生成工具
 
 ------
 
 ## 论坛社区类
 
-- [V2EX](https://www.v2ex.com) 一个关于分享和探索的地方
-- [吾爱破解](https://www.52pojie.cn/) 致力于软件安全与病毒分析的非营利性技术论坛
+[V2EX](https://www.v2ex.com) | 一个关于分享和探索的地方
+[吾爱破解](https://www.52pojie.cn/) | 致力于软件安全与病毒分析的非营利性技术论坛
 
 ------
 
 ## 购物优惠类
 
-- [逛丢](https://guangdiu.com/) 实时同步全网折扣
-- [买手党](https://www.maishoudang.com/) 买手聚集的地方
+[逛丢](https://guangdiu.com/) | 实时同步全网折扣
+[买手党](https://www.maishoudang.com/) | 买手聚集的地方
 
 ------
 
