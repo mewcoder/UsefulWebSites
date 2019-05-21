@@ -132,9 +132,9 @@
 
 ------
 
-## 资源类
+## 资源搜索类
 
-[WallHaven](https://alpha.wallhaven.cc/) | The best wallpapers on the Net!
+
 [胖次网盘搜索](https://www.panc.cc/) | 百度网盘搜索引擎
 [鸠摩搜书](https://www.jiumodiary.com/) | 电子书搜索引擎
 
@@ -152,11 +152,16 @@
 
 [疯狂影视搜索](http://ifkdy.com/) | 破解影视搜索引擎
 [茶杯狐](https://www.cupfox.com/) | 破解影视搜索引擎
-[MP4BA](http://www.mp4ba.com/) | 影视下载
+[高清MP4](http://www.mp4ba.com/) | 影视下载
+[hao6v](http://www.hao6v.com/) | 影视下载
+[BD影视](https://www.bd-film.cc/) | 影视下载
+[船长解析](http://czjx8.com/) | vip视频在线解析
 [Neets](https://neets.cc/) | 垂直类视频搜索引擎
 [全国电视直播](http://bddn.cn/zb.htm) | 支持几百个电视直播的网站，网站界面简洁无广告
 
-### 下载
+------
+
+## 视频下载
 
 [FindYoutube](http://www.ytb.io/) | download youtube & vimeo video without client
 [parsevideo](https://www.parsevideo.com/) | 视频解析网，微博、秒拍、汤不热视频解析下载网站
@@ -178,7 +183,7 @@
 [Github Games](https://likexia.gitee.io/game/index.html) | 在线有趣小游戏
 [表情锅](https://app.xuty.tk/static/app/index.html) | 在线生成王境泽、为所欲为等表情包
 [LogoyPro](https://logoly.pro) | 在线的PornHub风格Logo生成工具
-
+[WallHaven](https://alpha.wallhaven.cc/) | The best wallpapers on the Net!
 ------
 
 ## 论坛社区类
