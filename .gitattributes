@@ -1,6 +1,6 @@
-*.yml linguist-language=Markdown
-*.html linguist-language=Markdown
-*.js linguist-language=Markdown
-*.xml linguist-language=Markdown
-*.css linguist-language=Markdown
+*.yml linguist-language=html 
+*.html linguist-language=html 
+*.js linguist-language=html 
+*.xml linguist-language=html 
+*.css linguist-language=html 
 
