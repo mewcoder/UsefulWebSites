@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 aaaa
+=======
+bye
+>>>>>>> 2fd1f750bb4d45f126b7d2c1a6824e0282372289
