@@ -106,6 +106,7 @@
 ### 图床类
 
 - [SM.MS](https://sm.ms/) Simple Free Image Hosting
+- [Mini-Tools.uk Upload](https://mini-tools.uk/upload) 免费图片托管 / 图片转链接工具，上传图片后可复制直链、Markdown、HTML、BBCode，适合 README 图片、Markdown 文档、论坛发帖、工单截图和临时图片分享
 - [小贱贱图床](https://pic.xiaojianjian.net/) 全网CDN不限流量、无限外链、永久免费图床 
 
 
