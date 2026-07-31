@@ -52,6 +52,7 @@
 - [Camera360](http://web.camera360.com/) Camera360网页版在线制作图片及图片处理工具
 - [IMG365](http://www.img365.cn/) 免费的在线图片处理平台
 - [iLoveIMG](https://www.iloveimg.com/zh-cn) 图像文件在线编辑工具
+- [Free Image Merger](https://freeimagemerger.com/) 在线合并图片，支持横排、竖排、网格和自由画布布局，文件不上传
 - [Bigjpg](http://bigjpg.com/) AI人工智能图片放大
 - [colouriseSG](https://colourise.sg/) 用算法为黑白照片上色
 - [Jinaconvert](https://jinaconvert.com/cn/) 免费在线转换图片格式
