@@ -185,6 +185,7 @@
 [表情锅](https://app.xuty.tk/static/app/index.html) | 在线生成王境泽、为所欲为等表情包
 [LogoyPro](https://logoly.pro) | 在线的PornHub风格Logo生成工具
 [WallHaven](https://alpha.wallhaven.cc/) | The best wallpapers on the Net!
+[StagePeek](https://stagepeek.live/zh-CN/) | 201 座全球演唱会场馆 2D 选座图与 3D 舞台视角模拟器（免登录免费预览首座视野）
 
 ------
 
